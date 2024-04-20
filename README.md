@@ -2,11 +2,9 @@
 
 ### Neste projeto é perguntado ao usuário se ele gostaria de: Depositar, Sacar ou Cancelar a operação. Logo após a pergunta ele deverar digitar um valor e no fim decidir se gostaria de repetir o processo ou não.
 
-## Olá, eu sou o João! 
-
 
 ## 🚀 Sobre mim
-Eu sou um Desenvolvedor Web Back-End, com o objetivo de desenvolver mais as minhas habilidades na area, faz pouco tempo em que comecei a estudar programação e a primeira vez foi algo surpreendentemente magico para mim e desde entao nao para de estudar e ir em buscar de me aperfeicoar, aprender e pesquisar diversas formas de programar diferentes.
+Olá, eu sou o João! E sou um Desenvolvedor Web Back-End, com o objetivo de desenvolver mais as minhas habilidades na area, faz pouco tempo em que comecei a estudar programação e a primeira vez foi algo surpreendentemente magico para mim e desde entao nao para de estudar e ir em buscar de me aperfeicoar, aprender e pesquisar diversas formas de programar diferentes.
  
 
 
