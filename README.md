@@ -2,6 +2,9 @@
 
 ### Neste projeto é perguntado ao usuário se ele gostaria de: Depositar, Sacar ou Cancelar a operação. Logo após a pergunta ele deverar digitar um valor e no fim decidir se gostaria de repetir o processo ou não.
 
+# OBS: Para executar este projeto sem uma IDE Java ou UM programa dde leitura e edição de código, torna-se necessário baixar a pasta "src" e suas pastas e arquivos. Logo depois abrir seu prompt e digitar o endereço da pasta "application" no seu computador(Ex: cd C:\Users\YOU\Downloads\src\application), em seguida depois de apertar Enter digitar o seguinte comando: java App.java      Divirta-se!
+
+
 
 ## 🚀 Sobre mim
 Olá, eu sou o João! E sou um Desenvolvedor Web Back-End, com o objetivo de desenvolver mais as minhas habilidades na area, faz pouco tempo em que comecei a estudar programação e a primeira vez foi algo surpreendentemente magico para mim e desde entao nao para de estudar e ir em buscar de me aperfeicoar, aprender e pesquisar diversas formas de programar diferentes.
